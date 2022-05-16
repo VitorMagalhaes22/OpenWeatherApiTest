@@ -35,6 +35,13 @@ npm install -D cypress
 
 npx cypress open ou npm run cypress:open ( Para rodar os testes com interface)
 
+
+⚙️Executando os testes
+
+npx cypress open ou npm run cypress:open ( Para rodar os testes com interface)
+
+
+
 ⌨️Sobre Evidências
 
 
