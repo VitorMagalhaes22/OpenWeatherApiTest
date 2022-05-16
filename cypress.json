@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://api.openweathermap.org/data/2.5/weather",
+  "video": false,
+  "screenshotOnRunFailure": true,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/report",
+    "charts": true,
+    "reportPageTitle": "OpenWether Report",
+    "embeddedScreenshots": true
+  }
+}
